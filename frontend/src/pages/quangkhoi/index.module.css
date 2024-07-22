@@ -1,0 +1,23 @@
+@media (min-width: 1025px) {
+    .h-custom-2 {
+        height: 100%;
+    }
+}
+
+.warning {
+    color: red;
+    position: fixed;
+    top: 300px;
+    left: 60px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+.warning2 {
+    color: red;
+    position: fixed;
+    top: 350px;
+    left: 100px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}

@@ -1,0 +1,170 @@
+/* :root {
+    --color-greytext: #666666;
+    --color-orange: rgba(255, 132, 0, 0.2);
+    --color-blue: rgba(0, 106, 255, 0.2);
+    --color-green: rgba(0, 128, 0, 0.2);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condense';
+    height: 100vh;
+    width: 100vw;
+} */
+
+/*=====Navbar=====*/
+.nav {
+    width: 100%;
+    height: fit-content;
+    /* position: fixed; */
+    /* background-color: #E3D026; */
+    background-color: #FFD300;
+    padding-bottom: .5em;
+}
+
+.nav .nav-top {
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    width: 90%;
+    padding: .5em 5%;
+}
+
+.nav .nav-top .user-icon {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.nav-top h1 {
+    margin: 0;
+    font-size: 25px;
+    font-family: Roboto Condense;
+    font-weight: 700;
+}
+
+.menu .search-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.menu .search-wrapper input {
+    height: 3em;
+    width: 20em;
+    border: none;
+    border-radius: 0 5px 5px 0;
+}
+
+.menu .search-wrapper button {
+    height: 3em;
+    width: 3em;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    background-color: white;
+}
+
+
+/*=====Item block=====*/
+.block {
+    box-shadow: 5px 4px 8px 8px #d2d2d2;
+    padding: 3% 5%;
+    width: 100%;
+    height: fit-content;
+    margin: 2em 0;
+    border-radius: 12px;
+}
+
+.block h5 {
+    font-size: 20px;
+    margin: .5em 0;
+}
+
+.block .item {
+    display: flex;
+    margin: 1em 0;
+    /* width:20em; */
+    height: 12em;
+}
+
+.block .item img {
+    display: block;
+    width: 10em;
+    height: 10em;
+    border-radius: 10px;
+}
+
+.block .item .item-info {
+    margin-left: 1em;
+    width: 20em;
+    font-weight: bold;
+}
+
+.block .item .item-info h6 {
+    font-size: 20px;
+    margin: 0;
+    margin-top: .2em;
+}
+
+.block .item .item-info p {
+    font-size: 18px;
+    color: var(--color-greytext)
+}
+
+.block .item svg {
+    font-size: 30px;
+}
+
+.order {
+    height: 3.5em;
+    width: 60%;
+    margin: 0 20%;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(255, 132, 0);
+    margin-top: 0em;
+    color: white;
+    font-weight: bold;
+}
+
+
+/*=====Order form=====*/
+.additem {
+    display: flex;
+    height: 2.5em;
+    width: 4em
+}
+
+.additem input {
+    width: 2em;
+    border: solid 1px var(--color-greytext);
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    ;
+}
+
+.block #note {
+    height: 2.5em;
+    margin: 2px;
+    width: 100%;
+    border: none;
+    border-bottom: solid 1px var(--color-greytext);
+}
+
+.search-input {
+    height: 50px;
+    margin: 20px;
+    /* padding: 20px; */
+    width: 70%;
+    align-self: center;
+    /* border:none;
+    border-bottom:solid 1px var(--color-greytext);   */
+}
+
+.searchbar {
+    align-self: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+/*=====Components=====*/

@@ -1,0 +1,66 @@
+[
+    {
+        "item_id": 1,
+        "item_name": "Lucky Luke Edition Sneakers - limited",
+        "price": 45,
+        "images": [
+            {
+                "image_id": 1,
+                "image_url": "/images/lucky-shoe.jpg"
+            }
+        ],
+        "shop_id": 1,
+        "shop_name": "Ananas",
+        "rate_id": 1,
+        "rate_star": 4,
+        "rate_comment": "Outstanding"
+    },
+    {
+        "item_id": 2,
+        "item_name": "Indoors flip-flop",
+        "price": 30,
+        "images": [
+            {
+                "image_id": 2,
+                "image_url": "https://images.meesho.com/images/products/272173603/8hplx_512.webp"
+            }
+        ],
+        "shop_id": 1,
+        "shop_name": "Adidas",
+        "rate_id": 2,
+        "rate_star": 3,
+        "rate_comment": "Cool!"
+    },
+    {
+        "item_id": 5,
+        "item_name": "Mini Christmas Tree",
+        "price": 56,
+        "images": [
+            {
+                "image_id": 5,
+                "image_url": "https://cdn-amz.woka.io/images/I/71TluYmd8mL.jpg"
+            }
+        ],
+        "shop_id": 5,
+        "shop_name": "ThanhNhan",
+        "rate_id": 5,
+        "rate_star": 5,
+        "rate_comment": "Cool!"
+    },
+    {
+        "item_id": 6,
+        "item_name": "Old white T-shirt",
+        "price": 49,
+        "images": [
+            {
+                "image_id": 6,
+                "image_url": "https://dotilo.com/image/catalog/coupon/aotron/trang.jpg"
+            }
+        ],
+        "shop_id": 1,
+        "shop_name": "DOTILO",
+        "rate_id": 2,
+        "rate_star": 4,
+        "rate_comment": "Cool!"
+    }
+]

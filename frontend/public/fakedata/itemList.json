@@ -1,0 +1,134 @@
+[
+    {
+        "order_id": 1,
+        "paid_date": "10/24/2023",
+        "items": [
+            {
+                "item_id": 1,
+                "item_name": "Nintendo Switch with Neon Blue and Neon Red Joy‑Con™ (original packaging)",
+                "price": 20000,
+                "images": [
+                    {
+                        "image_id": 1,
+                        "image_url": "/images/switch.jpg"
+                    }
+                ],
+                "shop_id": 1,
+                "shop_name": "Circle K",
+                "rate_id": 1,
+                "rate_star": 3,
+                "rate_comment": "nice"
+            }
+        ]
+    },
+    {
+        "order_id": 1,
+        "paid_date": "10/24/2023",
+        "items": [
+            {
+                "item_id": 2,
+                "item_name": "PlayStation 5 Digital Edition - CFI-1102B : Video Games",
+                "price": 50000,
+                "images": [
+                    {
+                        "image_id": 2,
+                        "image_url": "/images/ps5.jpg"
+                    }
+                ],
+                "shop_id": 2,
+                "shop_name": "Family Mart",
+                "rate_id": null,
+                "rate_star": null,
+                "rate_comment": "null"
+            }
+        ]
+    },
+    {
+        "order_id": 12,
+        "paid_date": "8/18/2022",
+        "items": [
+            {
+                "item_id": 8,
+                "item_name": "Nintendo Game Boy Advance SP AGS 101 Handheld System",
+                "price": 100000,
+                "images": [
+                    {
+                        "image_id": 7,
+                        "image_url": "/images/gameboy.jpg"
+                    }
+                ],
+                "shop_id": 3,
+                "shop_name": "7-eleven",
+                "rate_id": 2,
+                "rate_star": 5,
+                "rate_comment": "very nice"
+            }
+        ]
+    },
+    {
+        "order_id": 12,
+        "paid_date": "8/18/2022",
+        "items": [
+            {
+                "item_id": 9,
+                "item_name": "Restored Sony PlayStation 2 PS2 Slim Console Black Matching Controller Power and Cables (Refurbished)",
+                "price": 20000,
+                "images": [
+                    {
+                        "image_id": 7,
+                        "image_url": "/images/ps2.jpg"
+                    }
+                ],
+                "shop_id": 3,
+                "shop_name": "7-eleven",
+                "rate_id": 7,
+                "rate_star": 4,
+                "rate_comment": "very nice"
+            }
+        ]
+    },
+    {
+        "order_id": 12,
+        "paid_date": "8/18/2022",
+        "items": [
+            {
+                "item_id": 10,
+                "item_name": "Classic Retro Game Console, AV Output 8-bit NES Video Game System Built-in 620 Games with 2 Classic Controllers",
+                "price": 10000,
+                "images": [
+                    {
+                        "image_id": 7,
+                        "image_url": "/images/nes.jpg"
+                    }
+                ],
+                "shop_id": 3,
+                "shop_name": "Family Mart",
+                "rate_id": null,
+                "rate_star": null,
+                "rate_comment": null
+            }
+        ]
+    },
+    {
+        "order_id": 11,
+        "paid_date": "3/11/2021",
+        "items": [
+            {
+                "item_id": 11,
+                "item_name": "Ty Mr. Bean Teddy Bear Regular | Beanie Baby Soft Plush Toy | Collectible Cuddly Stuffed Teddy",
+                "price": 4000,
+                "images": [
+                    {
+                        "image_id": 1,
+                        "image_url": "/images/teddy.jpg"
+                    }
+                ],
+                "shop_id": 1,
+                "shop_name": "Childhood store",
+                "rate_id": 1,
+                "rate_star": 4,
+                "rate_comment": "nice"
+            }
+        ]
+    }
+]
